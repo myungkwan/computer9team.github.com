@@ -10,7 +10,7 @@ tags: [markdown, workflow, blog, wiki, email]
 ----
 **09 10~12 학번**
 <br>
-![요건표](http://blogfiles.naver.net/20150525_98/furykyo_1432543784603RH4ih_PNG/01.png)
+![요건표](./images.01.png)
 <br>
 먼저 09이전과 10 학번은 학부가 변화된 시기로 졸업요건이 많이 복잡하다. 09이전 학번은 10년도와 09년도 대학요람에 나와있는 과목들중 '필수로 겹치는'
 과목들을 먼저 필수로 들어야된다. 또한 이시기에 많은 과목들이 사라졌는데 이러한 과목들은 재이수가 불가능하므로 학점이 많이 낮다면 다른과목을 보충해서
@@ -24,7 +24,7 @@ tags: [markdown, workflow, blog, wiki, email]
 
 **13/ 14학번이후**
 <br>
-![요건표](http://blogfiles.naver.net/20150525_243/furykyo_1432543784986K5LX7_PNG/02.png)
+![요건표](./images/02.png)
 <br>
 13학번과 14학번의 경우 c1 c2 과목이 다시 msc과목이 되었고 상대적으로 전공이 많아 졌다. 다른점은 기술과사회/경영 과목과 문명과 역사 또한 우리가 듣고있는
 컴퓨터 시스템 기초 설계 과목과 알고리즘의 유-무이다. 하지만 전공이 76학점을 채워야 하며 위에서 언급했듯이 전공과목 자체가 겹치는 시간대가 많으므로
@@ -57,15 +57,3 @@ tags: [markdown, workflow, blog, wiki, email]
 <br>
 [컴퓨터 공학부](http://cse.koreatech.ac.kr)
   
-
-
-
-
-
-```javascript
-var s= "Javascript syntax highlighting";
-alert(s);
-```
-
-
-

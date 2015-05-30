@@ -2,6 +2,8 @@
 layout:post
 title: "학년별 졸업 여건 확인해보기"
 date: 2015-05-25 13:30:10
+category: blog
+tags: [markdown, workflow, blog, wiki, email]
 ---
 
 #학년별 졸업여건 확인해보기

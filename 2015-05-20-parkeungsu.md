@@ -1,107 +1,21 @@
-# Together
-## Computersystem
-### 3
-#### 9team
-##### 2008160062
-###### parkeungsu
-
-
-#**How to Markdown**
-~~Forexample~~
-
-
-1. First Understand
-2. Second Using
-..*Undered sub-list.
-3. Third Reusing
-..1. And anther item.
-
-... We can have properly indented paragraphs within list items.
-... and so on...
-
-
-*Unordered list can use asterisks
--Or minuses
-+Or pluses
-
-
-
-#Link
-
-[Go to naver](http://www.naver.com)
-[Go to google](http://www.google.co.kr)
-
-
-#Image
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference 
-
-
-#Black-tick
-
-###For example
-
-`code` has `black-ticks around it`
-
-
-```javascript
-var s = "Javascript syntax highlighting";
-alert(s);
-```
-
-```
-No language indicated, so no syntax highlighting.
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>
-```
-
-#Table
-
-|	Table	|	Are	|	Cool	|
-|------------------------------------------------
-|  col 3 is	|  right-aligned| 	$1600	|
-|  col 2 is 	|  centered	| 	$12	|
-|  zebra stripes|  are neat     |	$1	|
--------------------------------------------------
-
-
-Markdown	|	Less	|	Pretty
----|	---|	---
-*still*	|	`renders` | **nicely**
-1 | 2 | 3
-
-
-#Inline HTML
-
-<d1>
-	<dt>Definition list</dt>
-	<dd>Is something people use sometimes.</dd>
-
-	<dt>Markdown in HTML</dt>
-
-</dl>
-
-
-
-#Horizontal Rule
-
-Three or more...
+# 졸업점검
 ---
-Hyphens
-***
-Asterisks
-___
 
-underscores
+###<2010학번 이전 졸업 점검표>
+---
+![2010](http://postfiles1.naver.net/20150530_32/parkeungsu_14329596852444XOnP_JPEG/10.jpg?type=w3)
 
 
-#Youtube videos
+###<2010~12학번 졸업 점검표>
+---
+![2010](http://postfiles13.naver.net/20150530_284/parkeungsu_1432959685436DBdBt_JPEG/1012.jpg?type=w3)
 
-<a herf="http://youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Image alt text here" width="240" height="180" border="10"/></a>
+
+###<2013학번 졸업 점검표>
+---
+![2010](http://postfiles5.naver.net/20150530_260/parkeungsu_1432959685613UY2dj_JPEG/13.jpg?type=w3)
+
+
+###<2014학번 졸업 점검표>
+---
+![2010](http://postfiles12.naver.net/20150530_299/parkeungsu_1432959685754KTC6I_JPEG/14.jpg?type=w3)
